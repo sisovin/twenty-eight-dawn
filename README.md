@@ -1,73 +1,138 @@
-# Welcome to your Lovable project
+# 28-Day AI Improvement Challenge
 
-## Project info
+Welcome to the **28-Day AI Improvement Challenge**! This project is a comprehensive, interactive program designed to supercharge your productivity, creativity, and wellness using real AI tools. 
 
-**URL**: https://lovable.dev/projects/f44a185b-5a81-4295-a9f0-aca17a3767ac
+---
 
-## How can I edit this code?
+## 🚀 Overview
 
-There are several ways of editing your application.
+This app guides users through a 28-day journey, providing **daily challenges**, curated AI-powered tools, and rich insights to help you build lasting habits across three core categories:
 
-**Use Lovable**
+- **Blue**: Productivity
+- **Orange**: Creativity
+- **Green**: Wellness
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f44a185b-5a81-4295-a9f0-aca17a3767ac) and start prompting.
+The experience is visually stunning, featuring an **Indigo brand gradient** with smooth, animated transitions, a **mobile-first responsive layout**, and an **AI-generated hero image** themed around a "knowledge castle".
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ✨ Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🌟 Design System
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **Color-coded categories:**  
+  - Blue = Productivity  
+  - Orange = Creativity  
+  - Green = Wellness
+- **Indigo brand gradient:**  
+  - Smooth, animated transitions for a cohesive visual experience.
+- **Responsive design:**  
+  - Fully mobile-first for seamless use on any device.
+- **Animated hero section:**  
+  - Floating elements and an AI-generated "knowledge castle" image.
 
-Follow these steps:
+---
+
+### 🗂️ Pages & Core Functionality
+
+| Page                | Description                                                                                                                                                           |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Home**            | Hero section with floating animations, benefits overview, and previews of each category.                                                                              |
+| **Daily Challenge** | Interactive day viewer with completion tracking, daily tips, and reflection notes.                                                                                    |
+| **Knowledge Hub**   | Searchable archive of all 28 AI tools, filterable by category.                                                                                                        |
+| **Progress Dashboard** | Stats, streaks, badges, category breakdowns, and a calendar view for tracking progress.                                         |
+
+---
+
+### 🧠 28 Days of AI Tools
+
+- **All content included:**  
+  - Each day unlocks a new challenge and real AI tool, spanning productivity, creativity, and wellness.
+- **Category filters:**  
+  - Easily explore tools by color-coded category.
+- **Completion tracking:**  
+  - Mark challenges as complete and see your progress over time.
+- **Tips & reflection:**  
+  - Daily insights and space to jot down your reflections.
+
+---
+
+## 🛠️ Technologies Used
+
+- [Vite](https://vitejs.dev/)  
+- [TypeScript](https://www.typescriptlang.org/)  
+- [React](https://react.dev/)  
+- [shadcn/ui](https://ui.shadcn.com/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- [Node.js & npm](https://github.com/nvm-sh/nvm#installing-and-updating) installed
+
+### Installation
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Step 2: Navigate to the project directory
+cd twenty-eight-dawn
 
-# Step 3: Install the necessary dependencies.
+# Step 3: Install dependencies
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🌐 Deployment
 
-**Use GitHub Codespaces**
+- Deploy instantly via [Lovable](https://lovable.dev/projects/f44a185b-5a81-4295-a9f0-aca17a3767ac):  
+  Click **Share → Publish** in your Lovable dashboard.
+- **Custom domain support:**  
+  Go to Project > Settings > Domains in Lovable to connect your own domain.  
+  [Custom domain guide](https://docs.lovable.dev/features/custom-domain#custom-domain)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 🖼️ Screenshots & Demos
 
-This project is built with:
+> _(Include screenshots/gifs of the Home, Daily Challenge, Knowledge Hub, and Progress Dashboard for best results.)_
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 🤔 FAQ
 
-Simply open [Lovable](https://lovable.dev/projects/f44a185b-5a81-4295-a9f0-aca17a3767ac) and click on Share -> Publish.
+**Can I use my own AI tools?**  
+Currently, the app features a curated set of 28 AI tools. Future versions may support custom tool integration.
 
-## Can I connect a custom domain to my Lovable project?
+**Is my progress saved?**  
+Yes! Completion tracking, stats, and reflections are saved for each user.
 
-Yes, you can!
+**How do I contribute or suggest new features?**  
+Open an issue or pull request in this repository!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 📚 License
+
+This project is open source under the [MIT License](LICENSE).
+
+---
+
+## 👏 Credits
+
+Created with ❤️ by [sisovin](https://github.com/sisovin) and contributors.
+
+---
+
+## 🔗 Related Resources
+
+- [Lovable Project Dashboard](https://lovable.dev/projects/f44a185b-5a81-4295-a9f0-aca17a3767ac)
+- [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
